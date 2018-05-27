@@ -1,4 +1,4 @@
-# purpose of the Fork
+# Purpose of the Fork
 Adding a 'false' option to template autoescaping to render everything without validation.
 
 # Contributing to Closure Templates
