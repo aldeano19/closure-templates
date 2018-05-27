@@ -1,3 +1,6 @@
+# Purpose of the Fork
+Adding a 'false' option to template autoescaping to render everything without validation.
+
 # Closure Templates
 Closure Templates are a client- and server-side templating system that helps you
 dynamically build reusable HTML and UI elements. They have a simple syntax
